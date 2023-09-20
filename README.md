@@ -80,3 +80,6 @@
 
 1. Create a SSH Keypair on your system locally using below
 
+```
+ssh-keygen -t rsa
+```
