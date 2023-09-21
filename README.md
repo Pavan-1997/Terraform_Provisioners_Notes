@@ -88,4 +88,13 @@ ssh-keygen -t rsa
 
 3. Run the Terraform Init - Plan - Apply
 
-4. If the python process is not running on the VM created then login to the VM manually and run the below command to check if its running or start the
+4. If the python process is not running on the VM created then login to the VM manually and run the below command to check if its running or start the process
+
+```
+sudo ps -ef | grep python
+```
+
+To Start the Process
+
+```
+
