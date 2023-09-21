@@ -98,4 +98,8 @@ sudo ps -ef | grep python
 sudo python3 app.py
 ```
 
-5. Now open the o
+5. Now open the port 80 on the instance
+
+6. Now access the application using the IP:Port
+
+
