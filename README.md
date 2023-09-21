@@ -86,4 +86,6 @@ ssh-keygen -t rsa
 
 2. Update the Public Key Path and Private Key Path in main.tf file 
 
-3. Run the Terraform Init - Plan - Apply 
+3. Run the Terraform Init - Plan - Apply
+
+4. If the python process is not running on the VM created then login to the VM manually and run the below command to check if its
