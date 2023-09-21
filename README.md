@@ -94,8 +94,8 @@ ssh-keygen -t rsa
 sudo ps -ef | grep python
 ```
 
-To Start the Process
-
 ```
 sudo python3 app.py
 ```
+
+5. Now open the o
