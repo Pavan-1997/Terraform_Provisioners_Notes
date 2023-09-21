@@ -83,3 +83,5 @@
 ```
 ssh-keygen -t rsa
 ```
+
+2. Update the Public Key Path and Private Key Path in main.tf file 
