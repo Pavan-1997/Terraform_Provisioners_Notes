@@ -1,7 +1,7 @@
 # Terraform_Provisioners_Notes 
            
 1. **file Provisioner:**          
-
+ 
    The `file` provisioner is used to copy files or directories from the local machine to a remote machine. This is useful for deploying configuration files, scripts, or other assets to a provisioned instance.
 
    Example:
